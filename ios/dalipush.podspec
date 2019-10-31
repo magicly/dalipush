@@ -17,6 +17,8 @@ A new flutter plugin project.
   s.dependency 'Flutter'
   s.dependency 'AlicloudPush'
   s.dependency 'MJExtension'
+
+  s.static_framework = true
   
   s.ios.deployment_target = '8.0'
 end
